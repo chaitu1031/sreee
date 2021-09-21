@@ -1,0 +1,8 @@
+git config --global user.name ""
+git congig --global user.email""
+git clone url
+git pull
+git add .
+git commit -a -m 'ddsfas'
+git push
+git checkout issue1
